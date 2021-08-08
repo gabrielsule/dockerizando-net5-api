@@ -1,0 +1,11 @@
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/api
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/appsettings.Development.json
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/appsettings.json
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/api.dll
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/api.deps.json
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/api.runtimeconfig.json
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/api.pdb
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/gabriel/Code/iga/docker/api/api/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
